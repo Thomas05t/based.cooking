@@ -1,46 +1,46 @@
-# This is the dish title
+# Erwtensoep (Dutch pea soup)
 
-If necessary, provide a very brief description of the dish in one or two sentences.
-For most dishes, this will be unnecessary.
-If there is a title image of this dish, it should be above this paragraph.
-You may also include prep/cook time and the number of servings as below:
+Erwtensoep, also called snert, is the Dutch version of pea soup. 
+Slices of rookworst (smoked sausage) are added before serving. The soup, which is traditionally eaten during the winter, is emblematic of Dutch cuisine.
+It is customarily served with Frisian rye bread (roggebrood) and bacon, cheese or butter.
+Pancakes are sometimes served with pea soup; this dish is called snert met struif, struif referring to the pancakes.
 
-- ⏲️ Prep time: 10 min
-- 🍳 Cook time: 30 min
+- ⏲️ Prep time: 15 min
+- 🍳 Cook time: 90 min
 - 🍽️ Servings: 4
 
 ## Ingredients
 
-- There must be a blank line above all lists.
-- List the ingredients
-- in an unordered list
-- similar to this.
-- List amounts if necessary.
-- Put (optional) at the end of optional ingredients
+- 7 1/2 cups / 1.75 liters water
+- 1 1/2 cups / 300 grams peas (dried green split)
+- 3 1/2 ounces / 100 grams pork belly (Dutch speklapjes or thick-cut bacon)
+- 1 pork chop
+- 1 bouillon cube (vegetable, pork or chicken)
+- 2 ribs celery
+- 2 to 3 carrots (peeled and sliced)
+- 1 large potato (peeled and cubed)
+- 1 small onion (chopped)
+- 1 small leek (sliced)
+- 1 cup celeriac (cubed)
+- 1 pound sausage (chopped rookworst, smoked sausage)
+- Salt and pepper
 
 ## Directions
 
-1. Now using an ordered list,
-2. give the directions to prepare the dish.
-3. Do **not** add unnecessary blank lines between items.
-4. If necessary,
-5. an image can be included between some directions if needed to explain something particular.
-6. But that should be kept to a minimum to reduce bandwidth and aid in simplicity.
+1. In a large soup pot, bring water, split peas, pork belly or bacon, pork chop, and bouillon cube to a boil.
+2. Reduce the heat to a simmer, cover and let cook for 45 minutes, stirring occasionally and skimming off any foam that rises to the top. 
+3. Remove the pork chop, debone, and thinly slice the meat. Set aside.
+4. Add the celery, carrots, potato, onion, leek, and celeriac to the soup.
+5. Return to the boil, reduce the heat to a simmer and let cook, uncovered, for another 30 minutes
+6. Add the smoked sausage for the last 15 minutes of cooking time.
+7. When the vegetables are tender, remove the bacon and smoked sausage, slice thinly, and set aside.
+8. If you prefer a smooth consistency, purée the soup with a stick blender.
+9. Season to taste with salt and pepper.
+10. Add the meat back to the soup, setting some slices of sausage aside.
+11. Serve in heated bowls or soup plates, garnished with slices of rookworst and chopped celery leaf. Enjoy!
 
 ## Contribution
 
-Here, just put your name and links to yourself (maybe a website or donation link) if you want.
-You may say "Anonymous" or a screenname if desired.
-If you add something substantial to an already existing recipe (including an image) you may add your name below with the contribution in parens.
+Thomas05t
 
-Note that your commit name will be used to sign the recipe, so for full
-anonymity either commit with a name that can't be traced back to you, or ask
-someone else to commit for you.
-
-If you add a Bitcoin/Monero address, put it in "code" between \`'s, like below. This is for formatting, especially with long Monero addresses.
-
-- Luke Smith - [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
-- Billy Smith - btc: `bc1q763s4ud0hgfa66ce64gyh6tsss49vyk5cqcm6w`
-- Sally Smith (photo credit) - [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
-
-;tags: tag1 tag2 tag3 (see README for tag guidelines)
+;tags: dutch vegetables soup pork potato
